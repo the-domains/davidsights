@@ -1,14 +1,28 @@
-layout_spectrum: 0.2991407
+name: DavidSights
+favicon: null
+layout_spectrum: 0.94538
 typography_spectrum: 0.4129968
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6723405
-  lightness: 0.7674767
-  brandStrength: 0.247935
-  rhythmicContrast: 0.414297
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-name: DavidSights
+  brandStrength: 0.247935
+  lightness: 0.7674767
+  saturation: 0.6723405
+  rhythmicContrast: 0.414297
+purpose: []
